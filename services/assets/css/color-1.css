@@ -85,7 +85,7 @@ h6 a {
 
 /*== Sections background images ==*/
 .hero-default-bg {
-    background-image: url(../images/hero-trans7839.png?v=1.2), url(../images/hero-bottom7839.png?v=1.2), url(../images/bg-s7839.png?v=1.2);
+    background-image: url(../images/hero-trans7839.png?v=1.2), url(../images/hero-bottom7839.png?v=1.2), url(../images/aust.jpg);
     background-repeat: no-repeat no-repeat;
     background-position: center top, center bottom, center;
 }
