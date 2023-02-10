@@ -16489,3 +16489,15 @@ select.country_to_state.country_select.form-control.select2-hidden-accessible.ch
 .checkbox-slider--b-flat input+span:before {
     box-shadow: none
 }
+
+
+/*extra css*/
+
+@media only screen and (min-width:992px) {
+    .mar{
+        margin-top:50px;
+    }
+    .mar2{
+        margin-top:150px;
+    }
+}
