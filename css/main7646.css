@@ -16627,7 +16627,7 @@ select.country_to_state.country_select.form-control.select2-hidden-accessible.ch
   }
 
   .red-background {
-  background-color: red;
+  background-color: #003a8f;
   animation: change-color 2s linear infinite;
 }
 
@@ -16642,3 +16642,28 @@ select.country_to_state.country_select.form-control.select2-hidden-accessible.ch
     color: white;
   }
 }
+
+
+/*Extra css anim*/
+
+@keyframes color-change {
+    from {
+      color: grey;
+    }
+    to {
+      color: black;
+    }
+  }
+  
+  .color-animation {
+    animation: color-change 2s ease-in-out infinite alternate;
+  }
+
+  .black-border {
+    color: white;
+    text-shadow:
+      -1px -1px 0 #000,
+       1px -1px 0 #000,
+      -1px  1px 0 #000,
+       1px  1px 0 #000;
+  }
