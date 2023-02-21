@@ -16524,10 +16524,13 @@ select.country_to_state.country_select.form-control.select2-hidden-accessible.ch
     }
   }
   
-
-  .timer-section {
-    min-height: 100vh;
+  @media only screen and (max-width: 767px) {
+    .timer-section {
+        margin-left: -10%;
+    }
   }
+
+
   .timer-section .container {
     padding-left: 15px;
     padding-right: 15px;
