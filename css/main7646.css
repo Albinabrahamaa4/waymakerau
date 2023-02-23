@@ -6326,8 +6326,9 @@ body.boxed {
 
 .btn-outline-maincolor {
     border-color: #010650f0;
-    color: #fff;
-    min-width: 230px
+    color: #060606;
+    min-width: 230px;
+    background-color:whitesmoke;
 }
 
 .btn-outline-maincolor2 {
