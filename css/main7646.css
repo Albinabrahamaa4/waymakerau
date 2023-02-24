@@ -16672,3 +16672,15 @@ select.country_to_state.country_select.form-control.select2-hidden-accessible.ch
       -1px  1px 0 #000,
        1px  1px 0 #000;
   }
+
+  .bann-er-img{
+    opacity: 0.8; 
+    margin-top: -300px;
+  }
+
+  @media only screen and (max-device-width: 480px){
+    .bann-er-img{
+        margin-top: 0px;
+    }
+    
+  }
