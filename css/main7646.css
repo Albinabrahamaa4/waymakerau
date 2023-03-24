@@ -16632,8 +16632,8 @@ select.country_to_state.country_select.form-control.select2-hidden-accessible.ch
   }
 
   .red-background {
-  background-color: #003a8f;
-  animation: change-color 2s linear infinite;
+  /* background-color: #003a8f; */
+  /* animation: change-color 2s linear infinite; */
 }
 
 @keyframes change-color {
