@@ -16684,3 +16684,9 @@ select.country_to_state.country_select.form-control.select2-hidden-accessible.ch
     }
     
   }
+
+  @media screen and (max-width: 767px) {
+    .smoverrid {
+      font-size: 30px !important;
+    }
+  }
