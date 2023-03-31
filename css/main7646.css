@@ -16690,3 +16690,10 @@ select.country_to_state.country_select.form-control.select2-hidden-accessible.ch
       font-size: 30px !important;
     }
   }
+
+  @media screen and (min-width: 768px) and (max-width: 990px) {
+    /* Select the HTML element you want to modify */
+    .footerfont {
+      font-size: 8px!important; /* or any other font size value you want */
+    }
+  }
